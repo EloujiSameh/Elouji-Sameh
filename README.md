@@ -4,15 +4,14 @@
 
 <img align="right" alt="coding"  width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F4dDkzaGxlNmNlaDBhcDQ5dnlqdWk3MHI4dzVqd2Ftcnh6dzBlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.gif">
 
-- 🌱 I’m currently learning **about DevOps , cloud computing, Cyber Security**
+- 🌱 I’m currently learning **about DevOps , cloud computing and Cyber Security**
 
 - 📫 How to reach me **elouji.sameh@outlook.com**
 
 - 📄 Know about my experiences as Analyst Helpdek IT : 
-   * Providing technical support to end users, troubleshooting IT issues,
-   * Managing support tickets, etc.
+   * Providing technical support to end users,
+   * troubleshooting IT issues, anaging support tickets, etc.
    * I worked with tools like Footprints ; GLPI to diagnose and resolve issues quickly and efficiently.
-
 
 - ⚡ Fun fact **I'm a big fan of solving wood Nuts & Bolts puzzles, and I've completed countless challenging designs!**
 
